@@ -1,10 +1,8 @@
 👋🏼 Hi, I’m @EverttonGomes
   
-👨🏽‍💻 Analysis and Systems Development Student
+👨🏽‍💻 Analysis and Systems Development Student and Computer Technician.  
 
-👨🏽‍🔧 Computer Technician 
-
-👀 I’m interested in BackEnd Development
+👀 I’m interested in Software Development, Back-End, Web Applications, DevOps.
 
 🌱 I’m currently learning Python, Java, Spring Boot. 
 
