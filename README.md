@@ -1,10 +1,10 @@
 👋🏼 Hi, I’m @EverttonGomes
   
-👨🏽‍💻 Analysis and Systems Development Student and Computer Technician.  
+👨🏽‍💻 Analysis and Systems Development & Artificial Intelligence Student and Computer Technician.  
 
 👀 I’m interested in Software Development, Back-End, Web Applications, DevOps.
 
-🌱 I’m currently learning Python, Java, Spring Boot. 
+🌱 I’m currently learning Java, Spring Boot, Angular, Python, Machine Learning, and Data Mining.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/evertton-gomes/)](https://www.linkedin.com/in/evertton-gomes/)
 
